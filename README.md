@@ -83,10 +83,11 @@ I enjoy working across the stack — shaping intuitive user interfaces and power
   <a href="https://www.linkedin.com/in/harshit-raghuwanshi-278243281" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:harshuraghu7999l@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
   </a>
-  <a href="https://x.com/yourusername" target="_blank">
+  <a href="https://x.com/HReviews14
+" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter&theme=dark" />
   </a>
 </p>
