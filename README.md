@@ -8,7 +8,24 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 About Me 
+<a href="YOUR_RESUME_LINK" target="_blank">
+  <img src="https://camo.githubusercontent.com/30f8d46119ba3246fc55f67c382e7e8ef3d4d2d5af533b5868c34f8363666bff/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f526573756d652d3432383546343f7374796c653d666c61742d737175617265266c6f676f3d676f6f676c652d6472697665266c6f676f436f6c6f723d7768697465" />
+</a>
+<a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+  <img src="https://camo.githubusercontent.com/e943fdb58e3f44ca7b271cc08b15d20c4ed27886f995867c94463df82c297c27/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456d61696c2d6561343333353f7374796c653d666c61742d737175617265266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" />
+</a>
+<a href="https://github.com/harshit403-pixel" target="_blank">
+  <img src="https://camo.githubusercontent.com/7d25879a1154e41d02975215aa093988a78036c605c1e16dbf813b9e78ef9c76/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" />
+</a>
+<a href="https://x.com/HReviews14" target="_blank">
+  <img src="https://camo.githubusercontent.com/e00177d8ac4b0281aa255dc4c2aeead9c9f29b6d129db79aa35b6b4c057ad185/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f582d3030303030303f7374796c653d666c61742d737175617265266c6f676f3d78266c6f676f436f6c6f723d7768697465" />
+</a>
+<a href="https://www.linkedin.com/in/harshit-raghuwanshi-278243281" target="_blank">
+  <img src="https://camo.githubusercontent.com/00ab6a0f1b74b6b3af85899765b842fd802ae593c034d4e0a555670957871d97/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373762353f7374796c653d666c61742d737175617265266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" />
+</a>
+
+
 
 I’m a **developer** passionate about building modern, scalable, and clean web applications.  
 I enjoy working across the stack — shaping intuitive user interfaces and powering them with solid backends.
@@ -86,10 +103,14 @@ I enjoy working across the stack — shaping intuitive user interfaces and power
   <a href="mailto:harshuraghu7999l@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
   </a>
-  <a href="https://x.com/HReviews14
-" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" />
-  </a>
+<a href="https://x.com/HReviews14" target="_blank">
+  <img
+    title="X (formerly Twitter)"
+    src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png"
+    width="40"
+  />
+</a>
+
 </p>
 
 ---
