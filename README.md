@@ -2,8 +2,9 @@
 <h1 align="center">Hi 👋, I'm Harshit Raghuwanshi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Building+modern+web+experiences;Clean+code+over+clever+code;Full-stack+developer+in+progress;Always+learning+⚡" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Building+modern+web+experiences;Clean+code+%3E+clever+code;Full-stack+developer+in+progress;Always+learning" />
 </p>
+
 
 ---
 
@@ -18,27 +19,42 @@ I enjoy working across the stack — shaping intuitive user interfaces and power
 
 ---
 
+
 ## ⚡ Tech Stack
 
 ### 🎨 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,threejs&theme=dark" />
+  <img title="HTML5" src="https://skillicons.dev/icons?i=html&theme=dark" />
+  <img title="CSS3" src="https://skillicons.dev/icons?i=css&theme=dark" />
+  <img title="JavaScript" src="https://skillicons.dev/icons?i=js&theme=dark" />
+  <img title="React" src="https://skillicons.dev/icons?i=react&theme=dark" />
+  <img title="Next.js" src="https://skillicons.dev/icons?i=nextjs&theme=dark" />
+  <img title="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind&theme=dark" />
+  <img title="Three.js" src="https://skillicons.dev/icons?i=threejs&theme=dark" />
 </p>
 
 ### 🧠 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,python&theme=dark" />
+  <img title="C" src="https://skillicons.dev/icons?i=c&theme=dark" />
+  <img title="C++" src="https://skillicons.dev/icons?i=cpp&theme=dark" />
 </p>
 
 ### ⚙️ Backend & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgres,supabase,firebase&theme=dark" />
+  <img title="Node.js" src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
+  <img title="MongoDB" src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
+  <img title="PostgreSQL" src="https://skillicons.dev/icons?i=postgres&theme=dark" />
+  <img title="Supabase" src="https://skillicons.dev/icons?i=supabase&theme=dark" />
+  <img title="Firebase" src="https://skillicons.dev/icons?i=firebase&theme=dark" />
 </p>
 
 ### 🛠 Tools & Cloud
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,docker,aws&theme=dark" />
+  <img title="Git" src="https://skillicons.dev/icons?i=git&theme=dark" />
+  <img title="Docker" src="https://skillicons.dev/icons?i=docker&theme=dark" />
+  <img title="AWS" src="https://skillicons.dev/icons?i=aws&theme=dark" />
 </p>
+
 
 ---
 
