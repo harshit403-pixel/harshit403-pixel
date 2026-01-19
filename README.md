@@ -91,6 +91,9 @@ I enjoy working across the stack — shaping intuitive user interfaces and power
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit403-pixel&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/harshit403-pixel/harshit403-pixel/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
