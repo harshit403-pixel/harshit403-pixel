@@ -32,6 +32,7 @@ class Developer {
   constructor() {
     this.name = "Harshit Raghuwanshi";
     this.role = "Full-Stack Developer";
+    this.location = "Gwalior, M.P, India ";
     this.mindset = "Building clean, scalable products";
   }
 
