@@ -36,7 +36,6 @@ class Developer {
     this.mindset = "Building clean, scalable products";
   }
 
-
   philosophy() {
     return "Think → Build → Refactor → Scale";
   }
