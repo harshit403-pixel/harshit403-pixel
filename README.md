@@ -1,40 +1,52 @@
-<!-- ===================== HEADER ===================== -->
-<h1 align="center">Hi 👋, I'm Harshit Raghuwanshi</h1>
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Harshit%20Raghuwanshi&fontSize=70&fontAlignY=38&desc=Full-Stack%20Developer%20|%20Web%20Enthusiast%20|%20Clean%20Code&descAlignY=55&descAlign=50&animation=fadeIn)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=true&width=650&lines=Building+modern+web+experiences;Frontend+to+Backend+development;Clean+code+over+clever+code;Always+learning+and+building" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Building+modern+web+experiences;Clean+code+%3E+clever+code;Full-stack+developer+in+progress;Always+learning" />
+  <a href="YOUR_PORTFOLIO_LINK">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/harshit-raghuwanshi-278243281">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/harshit403-pixel">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://x.com/HReviews14">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
 </p>
 
+## 🎯 About Me
+</div>
 
----
+<img align="right" alt="Coding" width="355" src="https://i.pinimg.com/originals/ce/76/0f/ce760fde1800bc12b74dfd67d2a5dcbe.gif">
 
-## 🧑‍💻 About Me 
-<a href="YOUR_RESUME_LINK" target="_blank">
-  <img src="https://camo.githubusercontent.com/30f8d46119ba3246fc55f67c382e7e8ef3d4d2d5af533b5868c34f8363666bff/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f526573756d652d3432383546343f7374796c653d666c61742d737175617265266c6f676f3d676f6f676c652d6472697665266c6f676f436f6c6f723d7768697465" />
-</a>
-<a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
-  <img src="https://camo.githubusercontent.com/e943fdb58e3f44ca7b271cc08b15d20c4ed27886f995867c94463df82c297c27/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456d61696c2d6561343333353f7374796c653d666c61742d737175617265266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" />
-</a>
-<a href="https://github.com/harshit403-pixel" target="_blank">
-  <img src="https://camo.githubusercontent.com/7d25879a1154e41d02975215aa093988a78036c605c1e16dbf813b9e78ef9c76/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" />
-</a>
-<a href="https://x.com/HReviews14" target="_blank">
-  <img src="https://camo.githubusercontent.com/e00177d8ac4b0281aa255dc4c2aeead9c9f29b6d129db79aa35b6b4c057ad185/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f582d3030303030303f7374796c653d666c61742d737175617265266c6f676f3d78266c6f676f436f6c6f723d7768697465" />
-</a>
-<a href="https://www.linkedin.com/in/harshit-raghuwanshi-278243281" target="_blank">
-  <img src="https://camo.githubusercontent.com/00ab6a0f1b74b6b3af85899765b842fd802ae593c034d4e0a555670957871d97/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373762353f7374796c653d666c61742d737175617265266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" />
-</a>
+```js
+class Developer {
+  constructor() {
+    this.name = "Harshit Raghuwanshi";
+    this.role = "Full-Stack Developer";
+    this.mindset = "Building clean, scalable, and user-focused products";
+  }
 
 
+  philosophy() {
+    return "Think → Build → Refactor → Scale";
+  }
+}
+```
+<br clear="right"/>
 
-I’m a **developer** passionate about building modern, scalable, and clean web applications.  
-I enjoy working across the stack — shaping intuitive user interfaces and powering them with solid backends.
-
-- 🚀 Focused on **clean & maintainable code**
-- 🧠 Curious about new tools & technologies
-- 🌙 Dark-mode by default
-
----
+🚀 Current Focus: Building modern, scalable full-stack web applications<br>
+🌱 Learning Curve: Backend architecture, performance optimization, clean system design<br>
+💡 Core Strengths: Frontend engineering, backend APIs, databases, real-world projects<br>
+🎯 Goal: Creating end-to-end products that are reliable, maintainable, and impactful
 
 
 ## ⚡ Tech Stack
@@ -80,8 +92,18 @@ I enjoy working across the stack — shaping intuitive user interfaces and power
 > 🚧 Projects coming soon — currently building & refining.
 
 ---
+<div align="center">
 
-## 📊 GitHub Stats
+<div align="center">
+
+# 📊 GitHub Analytics Dashboard
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=harshit403-pixel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&width=435&lines=Full+Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%AD%90;Always+Learning+%F0%9F%93%9A;Code+%7C+Create+%7C+Innovate+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harshit403-pixel&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
@@ -90,10 +112,80 @@ I enjoy working across the stack — shaping intuitive user interfaces and power
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit403-pixel&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://i.pinimg.com/originals/c7/54/ea/c754eacf0e5eaf8f1448a3d54f820b02.gif" width="190" />
 </p>
+
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/harshit403-pixel/harshit403-pixel/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+
+
+
+
+## 🏆 Achievements & Milestones
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.icons8.com/color/96/000000/trophy.png" width="60"/>
+<br><strong>Projects</strong>
+<br><h2>10+</h2>
+<p>Websites Deployed</p>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/color/96/000000/code.png" width="60"/>
+<br><strong>Commits</strong>
+<br><h2>500+</h2>
+<p>Lines of Code</p>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/color/96/000000/star.png" width="60"/>
+<br><strong>Accuracy</strong>
+<br><h2>8+</h2>
+<p> Customer rating</p>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/color/96/000000/globe.png" width="60"/>
+<br><strong>Deployments</strong>
+<br><h2>5+</h2>
+<p>Live Applications</p>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+<div align="center">
+
+## 💼 What I Offer
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/source-code.png" width="80"/>
+<h3>💻 Full-Stack Development</h3>
+<p>End-to-end web application development with clean architecture, scalable backend, and intuitive user interfaces</p>
+</td>
+
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/web-design.png" width="80"/>
+<h3>🎨 Frontend Engineering</h3>
+<p>Modern, responsive UIs using React, Next.js, Tailwind CSS, and performance-focused design principles</p>
+</td>
+
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/cloud.png" width="80"/>
+<h3>🚀 Backend & Deployment</h3>
+<p>Robust APIs, databases, authentication, and production deployments using Node.js, Docker, and cloud platforms</p>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -121,3 +213,13 @@ I enjoy working across the stack — shaping intuitive user interfaces and power
 <p align="center">
   <i>“Build things you’d still enjoy refactoring.” 🌌</i>
 </p>
+**Thanks for visiting! ⭐ Star my repos if you find them interesting!**
+
+</div>
+
+</div>
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+
+</div>
