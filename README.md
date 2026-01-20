@@ -29,6 +29,7 @@
 
 ```js
 class Developer {
+
   constructor() {
     this.name = "Harshit Raghuwanshi";
     this.role = "Full-Stack Developer";
@@ -39,6 +40,7 @@ class Developer {
   philosophy() {
     return "Think → Build → Refactor → Scale";
   }
+
 }
 ```
 <br clear="right"/>
