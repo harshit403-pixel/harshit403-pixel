@@ -32,7 +32,8 @@ class Developer {
   constructor() {
     this.name = "Harshit Raghuwanshi";
     this.role = "Full-Stack Developer";
-    this.mindset = "Building clean, scalable, and user-focused products";
+    this.mindset = "Building clean, scalable, and user-focused
+                     products";
   }
 
 
@@ -48,7 +49,7 @@ class Developer {
 💡 Core Strengths: Frontend engineering, backend APIs, databases, real-world projects<br>
 🎯 Goal: Creating end-to-end products that are reliable, maintainable, and impactful
 
-
+---
 ## ⚡ Tech Stack
 
 ### 🎨 Frontend
