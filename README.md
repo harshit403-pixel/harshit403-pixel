@@ -1,4 +1,4 @@
-<div align="center"> 
+<div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Harshit%20Raghuwanshi&fontSize=70&fontAlignY=38&desc=Full-Stack%20Developer%20|%20Web%20Enthusiast%20|%20Clean%20Code&descAlignY=55&descAlign=50&animation=fadeIn)
 
