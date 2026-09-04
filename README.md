@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=true&width=650&lines=Building+modern+web+experiences;Frontend+to+Backend+development;Clean+code+over+clever+code;Always+learning+and+building" alt="Typing SVG" />
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_LINK">
+  <a href="https://harshits-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/🌐_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/harshit-raghuwanshi-278243281">
@@ -17,7 +17,7 @@
   <a href="mailto:harshuraghu7999@@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://x.com/HReviews14">
+  <a href="https://x.com/hrstwt">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
@@ -88,12 +88,44 @@ class Developer {
 
 
 ---
+## 📌 Featured Projects
 
-## 📌 Projects
+<div align="center">
 
-> 🚧 Projects coming soon — currently building & refining.
+### 🔗 LinksHub
+
+**AI-powered developer portfolio and link-in-bio platform** that combines developer profiles, link management, GitHub integration, project analytics, and an AI assistant for exploring public project work.
+
+**Highlights:**
+AI Bio Generation • GitHub OAuth & Repository Import • Project Analytics • Gemini • LangChain • LangGraph • RAG • MongoDB Atlas Vector Search
+
+**Tech:** React 19 • Node.js • Express • MongoDB Atlas • Gemini • LangChain • LangGraph • Tailwind CSS • Vite
+
+<p>
+  <a href="https://github.com/harshit403-pixel/LinksHub">
+    <img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkshub-np0r.onrender.com/">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
 ---
+
+### 🚀 DeployIt
+
+A deployment-focused project built around modern web and cloud technologies, exploring application deployment, containerization, and production workflows.
+
+**Tech:** Docker • AWS • Linux • Git • CI/CD
+
+<p>
+  <a href="https://github.com/harshit403-pixel/DeployIt">
+    <img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+</div>
+
 <div align="center">
 
 <div align="center">
